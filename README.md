@@ -1,6 +1,6 @@
 Hi. im making silly cat clicker for my friends.
 i need this in github cuz github pages
 How to play?
-download and open html or click the page link idk where
-How to build?
-no how. there isn't need to build.
+Click on repository website link.
+No you don't need to download this.
+It works only in website probably, idk not tested.
